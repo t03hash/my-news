@@ -462,7 +462,7 @@ custom:
     deep_quiet:
       name: "深夜静默"
       start: "23:00"
-      end: "06:00"                 # 23:00 → 次日 06:00（跨日时间段）
+      end: "08:00"                 # 23:00 → 次日 06:00（跨日时间段）
       # frequency_file: "xxx.txt"               # 关键词文件（可选，位于 config/custom/keyword/）
       # interests_file: "xxx.txt"                # AI 兴趣文件（可选，位于 config/custom/ai/）
       # filter_method: "keyword"                # 筛选策略（可选: keyword | ai，不填用全局 filter.method）
